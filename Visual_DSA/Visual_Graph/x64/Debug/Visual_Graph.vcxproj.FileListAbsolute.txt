@@ -1,0 +1,3 @@
+C:\The Normie Programmer\DSA\Visual_DSA\Visual_Graph\x64\Debug\Visual_Graph.exe
+C:\The Normie Programmer\DSA\Visual_DSA\Visual_Graph\x64\Debug\Visual_Graph.vcxproj.CopyComplete
+C:\The Normie Programmer\DSA\Visual_DSA\Visual_Graph\x64\Debug\SDL2d.dll
